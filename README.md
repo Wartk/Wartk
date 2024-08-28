@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! I'm Wartk 👋
 
-<!--
-**Wartk/Wartk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an 18-year-old enthusiast of programming and mathematics. Currently, I'm diving into the world of C++ and learning how to use GitHub. I'm just starting out, but I'm excited about what's ahead!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Age**: 18 years old
+- 💻 **Currently Learning**: C++ and GitHub
+
+
+## 🔧 Tools and Technologies
+
+- **Languages**: C++
+- **Tools**: Git, GitHub
+
+## 📫 How to Reach Me
+
+- **Email**: [wartkhl@gmail.com](mailto:wartkhl@gmail.com)
+
+Thanks for visiting my profile!
+
